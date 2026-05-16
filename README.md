@@ -239,8 +239,6 @@ B.Tech Computer Science, IIIT Kalyani
 Research interests:
 
 * AI Safety
-* LLM Reliability
-* Adversarial Robustness
-* Representation Learning
+* Quantum Cryptography
 * Quantum Computing
 * AI Security
