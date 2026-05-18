@@ -1,10 +1,9 @@
 from transformers import pipeline
 
-# Load model once (important)
 generator = pipeline(
     "text-generation",
-    model="gpt2",   # start simple
-    device=-1       # CPU (use 0 if GPU available)
+    model="gpt2",  
+    device=-1       
 )
 
 def generate_response(prompt: str) -> dict:
